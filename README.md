@@ -25,7 +25,6 @@ movieId,title,genres
 Movie titles are entered manually or imported from https://www.themoviedb.org/, and include the year of release in parentheses. Errors and inconsistencies may exist in these titles.
 
 Genres are a pipe-separated list, and are selected from the following:
-
 Action
 Adventure
 Animation
